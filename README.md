@@ -4,7 +4,7 @@ End‑to‑end commercial analytics project on a realistic synthetic FMCG datase
 (1.1M daily transactions, 5 countries, 2021–2023) from Kaggle. The work is
 structured in **three parts**: pricing, demand planning, and inventory.
 
-Below is a brief summary of the analysis, you can find the full analysis here: FMCG_Promotions_Analysis.ipynb
+**Below is a brief summary of the analysis, you can find the full analysis here: FMCG_Promotions_Analysis.ipynb**
 
 ## Part 1 – Promotion Profitability
 
